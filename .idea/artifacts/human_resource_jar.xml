@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="human_resource:jar">
+    <output-path>$PROJECT_DIR$/out</output-path>
+    <root id="archive" name="human_resource.jar">
+      <element id="module-output" name="human_resource" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/postgresql.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
